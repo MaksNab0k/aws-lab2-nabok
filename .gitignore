@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.pem
+rates_2022.csv
+graph_2022.png
